@@ -29,7 +29,7 @@ namespace IPTreatmentOffering
                     {
                         logging.AddLog4Net();
 
-                        logging.SetMinimumLevel(LogLevel.Error);
+                        //logging.SetMinimumLevel(LogLevel.Error);
                     });
                 });
     }
